@@ -6,7 +6,7 @@ An archive of all the links generated and/or found by Mayeenul Islam
 
 * [**About** Mayeenul Islam](https://mayeenulislam.github.io/)
 * [নাগরি-বাংলা লিপ্যন্তর](https://mayeenulislam.github.io/nagri-bangla/) - a Silôṭi Nagri-Bānglā transcriber
-* [**Anagrammatics** Mayeenul Islam](https://mayeenulislam.github.io/anagrammatics) - An anagram playground built with AlpineJS and TailwindCSS
+* [**Anagrammatics**](https://mayeenulislam.github.io/anagrammatics) - An anagram playground built with AlpineJS and TailwindCSS
 * [**Tuts** by Mayeenul Islam](https://mayeenulislam.github.io/tuts/) - Technology Tutorials by Mayeenul Islam in Bengali (`bn_BD`)
 * [**Bangla Lorem Ipsum**](https://mayeenulislam.github.io/bangla-lorem-ipsum/) - Bangla Filler Text Generator
 * [Slide: **Onboarding Supervisor**](https://mayeenulislam.github.io/slide-onboarding-supervisor/) - HTML Slides on Task-automation software named 'Supervisord'
